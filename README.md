@@ -17,6 +17,8 @@ utilizing time-series and geospatial analysis.
 
 [Metro area mortgage delinquency rates, 2008 - march 2021](https://www.consumerfinance.gov/data-research/mortgage-performance-trends/download-the-data/)
 
+
+
 ---
 
 ## Technologies
@@ -90,6 +92,8 @@ There are 15 code blocks in total in the **Mortgage delinquency rates analysis.i
     *#13: All data used (2008 to March 2021) showing no correlation
     *#14: Portion of data used (2008 to 2010) showing a weak positive correlation
     *#15: Portion of data used (2018 to March 2021) showing a weak negative correlation.
+
+[Using cartographic boundary files from the US census bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
 ---
 
