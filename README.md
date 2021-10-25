@@ -71,9 +71,22 @@ In this section, you should include detailed installation notes containing code 
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-To review the analysis files simply clone the repository and run the files in the following order after launching Jupyter Lab or VS Code from any CLI (Git BASH, Conda, Miniconda, Powershell, etc.) to step through the data analysis **yahoo_data_download_csv_analysis_plot_1.ipynb, stocks_to_mort_analysis_plot_2.ipynb, and Mortgage delinquency rates analysis.ipynb** with:
+To review the analysis files simply clone the repository and run the files in the following order after launching Jupyter Lab or VS Code from any CLI (Git BASH, Conda, Miniconda, Powershell, etc.). Upon launching the Jupyter notebook files you will step through one code block at a time. 
 
-Upon launching the Jupyter notebook files you will step through the analysis one code block at a time. 
+First run **yahoo_data_download_csv_analysis_plot_1.ipynb
+
+
+
+
+Next run **stocks_to_mort_analysis_plot_2.ipynb** 
+
+
+
+
+
+Finally run **Mortgage delinquency rates analysis.ipynb**
+
+
 
 ---
 
