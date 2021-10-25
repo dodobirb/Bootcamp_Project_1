@@ -89,9 +89,9 @@ There are 15 code blocks in total in the **Mortgage delinquency rates analysis.i
 * #11: Generates multiple boxplots. First, one for every metro area (200+) using all data points. Second, interactive box plot to select an individual metro area and see a boxplot for each year from 2008 to 2021.
 * #12: Import, clean, and format stock data to use for the correlation analysis from the yfiance python library. Also combine into a single dataframe for code blocks #13 to #15
 * #13 to #15: Calculate scatter plots and correlation coefficients between the mortgage delinquency rate data and bank stock data. 
-    *#13: All data used (2008 to March 2021) showing no correlation
-    *#14: Portion of data used (2008 to 2010) showing a weak positive correlation
-    *#15: Portion of data used (2018 to March 2021) showing a weak negative correlation.
+    * #13: All data used (2008 to March 2021) showing no correlation
+    * #14: Portion of data used (2008 to 2010) showing a weak positive correlation
+    * #15: Portion of data used (2018 to March 2021) showing a weak negative correlation.
 
 ---
 
