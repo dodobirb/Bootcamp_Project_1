@@ -73,7 +73,7 @@ This section should include screenshots, code blocks, or animations explaining h
 
 To review the analysis files simply clone the repository and run the files in the following order after launching Jupyter Lab or VS Code from any CLI (Git BASH, Conda, Miniconda, Powershell, etc.). Upon launching the Jupyter notebook files you will step through one code block at a time. 
 
-First run **yahoo_data_download_csv_analysis_plot_1.ipynb
+First run **yahoo_data_download_csv_analysis_plot_1.ipynb**
 
 
 
