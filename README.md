@@ -92,7 +92,7 @@ There are 15 code blocks in total in the **Mortgage delinquency rates analysis.i
 * #2: Imports, cleans, and formats "Mortgage performance trends" data from https://www.consumerfinance.gov/data-research/mortgage-performance-trends/download-the-data/
     Imports, cleans, and formats "CBSA codes and polygonal geometry coordinate" data from https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
     * Displays combined dataframe on screen and exports to excel file. The dataframe is used in code blocks #3 to #6
-* #3 to #6: Generates multiple cartographic map of 200+ metro areas average mortgage delinquency rates in 2008 and 2020 to present a visual representation of the data. Code block #6 presents two maps side-by-side to provide a visualization to view 2008 vs 2020.
+* #3 to #6: Generates multiple cartographic maps of 200+ metro areas average mortgage delinquency rates in 2008 and 2020 to present a visual representation of the data. Code block #6 presents two maps side-by-side to provide a visualization to view 2008 vs 2020.
 * #7: Re-cast the dataset as a new dataframe to build time-series, scatter, and boxplot charts used in code blocks #8 to #11
 * #8: Creates an interactive time series line plot and data table for mortgage delinquency rates by metro area  
 * #9: Provides the range of average rates to visualize the range across all 200+ metro areas in a scatter plot
