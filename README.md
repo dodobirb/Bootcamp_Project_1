@@ -86,7 +86,7 @@ Next run **stocks_to_mort_analysis_plot_2.ipynb**
 
 Finally run **Mortgage delinquency rates analysis.ipynb**
 
-There are 15 code blocks in total with a brief summary of each section.
+There are 15 code blocks in total in the **Mortgage delinquency rates analysis.ipynb** with a brief summary of each section.
 
 * #1: Imports all relevant libraries for data wrangling, data visualizations, and data analysis
 * #2: Imports, cleans, and formats "Mortgage performance trends" data from https://www.consumerfinance.gov/data-research/mortgage-performance-trends/download-the-data/
